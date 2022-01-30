@@ -1,0 +1,24 @@
+.imageFoto {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.imageFotoList {
+  border: 10px solid #26f8e7;
+  list-style: none;
+}
+.imageFotofoto {
+  border: 20px solid #fff;
+}
+.Button {
+  margin-left: 45%;
+  border: 10px solid #2645f8;
+  background-color: #aeb6e6;
+}
+
+/* className={style.imageFoto} */
+.title {
+  margin-left: 35%;
+  color: #0b1e85;
+}
